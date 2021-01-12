@@ -1,2 +1,2 @@
-# car-evaluation
-https://archive.ics.uci.edu/ml/datasets/car+evaluation
+# Fuel efficiency prediction
+https://archive.ics.uci.edu/ml/datasets/auto+mpg
